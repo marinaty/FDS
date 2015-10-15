@@ -1,0 +1,110 @@
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\FabricaSonrisas.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\FabricaSonrisas.pdb
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\Antlr3.Runtime.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\BLL.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.Core.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\EntityFramework.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\System.Web.Optimization.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\System.Web.Providers.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\WebGrease.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\BLL.pdb
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\EntityFramework.xml
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.Core.xml
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\es\EntityFramework.resources.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\es\System.Web.Providers.resources.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\obj\Debug\FabricaSonrisas.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\FabricaSonrisas\obj\Debug\FabricaSonrisas.pdb
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\FabricaSonrisas.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\FabricaSonrisas.pdb
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\Antlr3.Runtime.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\BLL.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.Core.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\EntityFramework.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\System.Web.Optimization.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\System.Web.Providers.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\WebGrease.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\BLL.pdb
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\EntityFramework.xml
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.Core.xml
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\es\EntityFramework.resources.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\es\System.Web.Providers.resources.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\obj\Debug\FabricaSonrisas.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\FabricaSonrisas\obj\Debug\FabricaSonrisas.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\FabricaSonrisas.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\FabricaSonrisas.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\Antlr3.Runtime.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\AspNet.ScriptManager.jQuery.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\BLL.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.AspNet.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.Core.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\EntityFramework.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.ScriptManager.WebForms.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\Microsoft.Web.Infrastructure.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\System.Web.Optimization.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\System.Web.Providers.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\WebGrease.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DAL.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\BLL.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\EntityFramework.xml
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.Core.xml
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.xml
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.xml
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DotNetOpenAuth.AspNet.xml
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\DAL.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\es\EntityFramework.resources.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\es\System.Web.Optimization.resources.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\es\System.Web.Providers.resources.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\obj\Debug\FabricaSonrisas.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\FabricaSonrisas\obj\Debug\FabricaSonrisas.pdb

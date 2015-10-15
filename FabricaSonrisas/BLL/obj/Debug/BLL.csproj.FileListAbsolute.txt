@@ -1,0 +1,21 @@
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\BLL\bin\Debug\BLL.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\BLL\bin\Debug\BLL.pdb
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\BLL\bin\Debug\DAL.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\BLL\bin\Debug\DAL.pdb
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\BLL\obj\Debug\BLL.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\BLL\obj\Debug\BLL.pdb
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\BLL\bin\Debug\BLL.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\BLL\bin\Debug\BLL.pdb
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\BLL\bin\Debug\DAL.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\BLL\bin\Debug\DAL.pdb
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\BLL\obj\Debug\BLL.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\BLL\obj\Debug\BLL.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\BLL\bin\Debug\BLL.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\BLL\bin\Debug\BLL.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\BLL\bin\Debug\DAL.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\BLL\bin\Debug\DAL.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\BLL\obj\Debug\BLL.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\BLL\obj\Debug\BLL.pdb

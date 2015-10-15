@@ -1,0 +1,15 @@
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\DAL\bin\Debug\DAL.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\DAL\bin\Debug\DAL.pdb
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\DAL\obj\Debug\DAL.dll
+C:\Users\Manuel\Desktop\meso\Applicacion\FabricaSonrisas\DAL\obj\Debug\DAL.pdb
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\DAL\bin\Debug\DAL.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\DAL\bin\Debug\DAL.pdb
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\DAL\obj\Debug\DAL.dll
+C:\Users\acer\Desktop\proyecto FDS\FabricaSonrisas\DAL\obj\Debug\DAL.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\DAL\bin\Debug\DAL.dll.config
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\DAL\bin\Debug\DAL.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\DAL\bin\Debug\DAL.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\DAL\obj\Debug\DAL.dll
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\DAL\obj\Debug\DAL.pdb
+D:\8vo\PROYECTO FINAL\FabricaSonrisas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
